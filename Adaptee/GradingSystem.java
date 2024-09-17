@@ -1,0 +1,7 @@
+package LabSeatwork.Adaptee;
+
+public class GradingSystem {
+    public String recordGrades(){
+        return "Grades Recorded";
+    }
+}
